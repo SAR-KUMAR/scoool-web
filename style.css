@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+input
+{
+    background: grey;
+}
+.my_nav_bar { position:sticky; top:0; z-index:99999 }\
+.schoolcampus_mainDiv img {
+    width: 100%;
+}
+
+.schoolcampus_mainDiv hr {
+    width: 230px;
+}
+
+.schoolcampus_mainDiv h5,
+.schoolcampusDiv p {
+    margin-left: 20px;
+  .achievement_head {
+        font-size: 20px;
+        padding: 6px 22px;
+        border-radius: 10px;
+        margin-bottom: 15px;
+        width: 100%;
+        display: inline-block;
+    }
+
+    .achievement_head i {
+        float: right;
+    }
+
+    .achievement_text span {
+        color: #ff7700;
+    }
